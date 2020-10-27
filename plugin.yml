@@ -1,0 +1,10 @@
+name: ReillyEconomy
+main: me.raid42.ReillyEconomy
+version: 1.0
+commands:
+    trade:
+        description: Lets you trade emeralds for diamonds, gold, iron and vice versa.  Try /trade emerald [diamond/gold/iron] or /trade [diamond/gold/iron]
+    market: 
+        description: Displays quantities that could be traded through the 'trade' command.
+    market2:
+        description: Displays market prices for diamond, gold, and iron in terms of emerald.
